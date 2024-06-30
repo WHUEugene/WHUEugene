@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html
   lang="en"
-  data-theme="light"
+  data-theme="dark"
 >
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
@@ -697,7 +697,7 @@ template {
   See: https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints
 */
 
-:root[data-theme="dark"] {
+:root[data-theme="light"] {
   --bg: var(--bg0);
   --bg0: #fbf1c7;
   --bg0_h: #f9f5d7;
@@ -730,11 +730,11 @@ template {
   --orange2: #af3a03;
 }
 
-[data-theme="dark"]:root .light--hidden {
+[data-theme="light"]:root .light--hidden {
     display: none;
   }
 
-:root[data-theme="light"] {
+:root[data-theme="dark"] {
   --bg: var(--bg0);
   --bg0: #282828;
   --bg0_h: #1d2021;
@@ -767,7 +767,7 @@ template {
   --orange2: #fe8019;
 }
 
-[data-theme="light"]:root .dark--hidden {
+[data-theme="dark"]:root .dark--hidden {
     display: none;
   }
 
