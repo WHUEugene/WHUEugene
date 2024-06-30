@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Personal Page</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Welcome to My Personal Page</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Sat, 16 Sep 2023 23:51:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journey of Enlightenment: From Wuhan to Oxford, A Tale of Cultural Fusion and Academic Growth</title>
+      <link>http://localhost:1313/blog/image-optimization/</link>
+      <pubDate>Sat, 16 Sep 2023 23:51:37 +0200</pubDate>
+      <guid>http://localhost:1313/blog/image-optimization/</guid>
+      <description>With profound honor and joy, we embarked on a journey of a lifetime, representing Wuhan University and celebrating its 130th anniversary. The invaluable opportunity to engage in an exchange program with the prestigious University of Oxford was a rare privilege.&#xA;The decision to participate in an international exchange program is not one made lightly. Upon confirmation of my successful application, I found myself in a reflective state, contemplating, &amp;ldquo;Why have I chosen to study abroad?</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Contact Information# Email: lyjeugene@foxmail.com Phone: +86-19873767318 Welcome to Contact Me# If you have any questions, suggestions, or collaboration inquiries, feel free to reach out to me via email or phone. I look forward to hearing from you!&#xA;Legal# The theme is licensed under MIT.&#xA;All trademarks are the property of their respective owners.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Experience# 大创队长 2023-9 - 至今 无人机影像三维重建项目 — 基于3D Gaussian Splatting 的高速三维重建 测绘遥感国家重点实验室 建立一套完整的无人机影像三维重建流程，设计并改进神经网络模型对于无人机影像的优化，研发3D Gaussian在无人机影像高速重建方面生成高精度、高质量的三维模型，并打通数字孪生加载到虚拟现实应用中。&#xA;设计优化神经网络模型 开发高精度、高质量的三维模型 实现数字孪生加载到虚拟现实应用中 全栈开发工程师 2023-10 - 2024-2 新闻运营管理系统开发 — 面向武汉大学英文官网团队的内部运营系统。 武汉大学 用于支持摄影、新闻、编辑、运营等多个职位的人员协作与管理。采用SpringBoot作为后端框架，Vue3作为前端框架。&#xA;采用SpringBoot与Vue3开发系统 集成阿里云OSS实现文件存储与分发 大创成员 2022-09 - 2023-08 众源轨迹的交通模式推导 — 机器学习与神经网络识别交通模式 测绘遥感国家重点实验室 利用机器学习技术推断众源GPS轨迹的出行模式，分析智慧交通与出行行为。&#xA;构建端到端交通模式识别神经网络模型 大创成员 2021-10 - 2022-09 基于行为活动的社区宜行性研究 — 社区行为活动调查与评估 江岸区, 武汉 利用空间分析工具研究社区宜行性，探索社区环境与居民行为的关系。&#xA;收集地理信息数据，调查居民行为特征 利用ArcGIS等工具可视化研究结果 Education# 武汉大学 (本科) 2021-09-01 - 2025-06-01 空间信息与数字处理 3.7/4.0 牛津大学 (暑期交换) 2023-07-01 - 2023-08-01 学术论文与写作 南洋理工大学 (寒期交换) 2024-01-01 - 2024-02-01 机器人与人工智能 Awards# The 2024 IEEE GRSS Data Fusion Contest Track2 全球第二名 2024-03 Water Body Extraction from High-resolutionand Multi-modal Optical Images 第五名 2024-05 美国大学生数学建模竞赛 H奖 2024-04 黄鹤杯武汉高校3D打印设计大赛 一等奖 2023-01 校级甲等奖学金 2022-01 Skills# GIS与空间分析 (熟练运用ArcGIS等地理信息系统软件，掌握gis相关的空间分析方法)</description>
+    </item>
+  </channel>
+</rss>
